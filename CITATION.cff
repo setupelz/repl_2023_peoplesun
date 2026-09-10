@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this archive, cite the paper below and the archive by its Zenodo DOI."
+title: "Replication archive: Electricity supply quality and use among rural and peri-urban households and small firms in Nigeria"
+type: software
+version: 1.0.0
+date-released: 2026-09-10
+license: MIT
+repository-code: https://github.com/setupelz/repl_2023_peoplesun
+url: https://github.com/setupelz/repl_2023_peoplesun/releases
+authors:
+  - family-names: Pelz
+    given-names: Setu
+    affiliation: International Institute for Applied Systems Analysis
+    email: pelz@iiasa.ac.at
+    orcid: https://orcid.org/0000-0002-3528-8679
+preferred-citation:
+  type: article
+  title: "Electricity supply quality and use among rural and peri-urban households and small firms in Nigeria"
+  journal: Scientific Data
+  year: 2023
+  volume: "10"
+  start: "273"
+  doi: 10.1038/s41597-023-02185-0
+  authors:
+    - family-names: Pelz
+      given-names: Setu
+    - family-names: Chinichian
+      given-names: Narges
+    - family-names: Neyrand
+      given-names: Clara
+    - family-names: Blechinger
+      given-names: Philipp
