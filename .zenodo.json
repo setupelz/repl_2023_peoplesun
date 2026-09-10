@@ -1,0 +1,34 @@
+{
+  "title": "Replication archive: Electricity supply quality and use among rural and peri-urban households and small firms in Nigeria",
+  "description": "<p>Code, data and figures for Pelz et al. (2023), <i>Scientific Data</i>, <a href=\"https://doi.org/10.1038/s41597-023-02185-0\">doi:10.1038/s41597-023-02185-0</a>. Summary and materials: <a href=\"https://setupelz.com/work/nigeria-survey.html\">https://setupelz.com/work/nigeria-survey.html</a>.</p>",
+  "creators": [
+    {
+      "name": "Pelz, Setu",
+      "affiliation": "International Institute for Applied Systems Analysis",
+      "orcid": "0000-0002-3528-8679"
+    }
+  ],
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "energy access",
+    "Nigeria",
+    "household survey",
+    "electricity supply quality",
+    "PeopleSuN",
+    "replication archive"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1038/s41597-023-02185-0",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "https://setupelz.com/work/nigeria-survey.html",
+      "relation": "isDescribedBy",
+      "resource_type": "other"
+    }
+  ]
+}

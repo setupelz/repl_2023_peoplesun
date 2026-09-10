@@ -67,3 +67,6 @@ rsconnect/
 *.cls
 Manuscript/ref.bib.bak
 Manuscript/ref.bib.sav.tmp
+
+# Survey codebooks travel with the archive
+!Data/Survey/*_odk_*.xlsx
