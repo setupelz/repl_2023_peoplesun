@@ -7,6 +7,7 @@ date-released: 2026-09-10
 license: MIT
 repository-code: https://github.com/setupelz/repl_2023_peoplesun
 url: https://github.com/setupelz/repl_2023_peoplesun/releases
+doi: 10.5281/zenodo.22687002
 authors:
   - family-names: Pelz
     given-names: Setu
